@@ -22,7 +22,7 @@ public class FirstSeleniumTest {
         //driver.quit();
     }
     @Test
-    public void testSignuptoApplication()
+    public void testSignup()
     {
         driver.findElement(By.className("nfm-multiple-container pc-account rtl-account"));
     }
